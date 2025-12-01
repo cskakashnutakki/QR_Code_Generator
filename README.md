@@ -20,10 +20,10 @@ A simple and responsive QR Code Generator web application built with HTML, CSS, 
 
 ## Technologies Used
 
-- **HTML**: Structure of the web page.
-- **CSS**: Styling and responsive design.
-- **JavaScript**: Logic for generating QR codes and handling user interactions.
-- **QR Server API**: External API used to generate QR codes.
+- **HTML** ```Structure of the web page.```
+- **CSS** ```Styling and responsive design.```
+- **JavaScript** ```Logic for generating QR codes and handling user interactions.```
+- **QR Server API** ```External API used to generate QR codes.```
 
 ## How to Use
 
